@@ -1,8 +1,8 @@
 const Services = () => {
   return (
-    <div>
-      
-    </div>
+    <section className="max-container ">
+
+    </section>
   )
 }
 
